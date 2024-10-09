@@ -595,6 +595,7 @@ MonoBehaviour:
   cactus1: {fileID: 1333784471}
   cactus2: {fileID: 1735634573}
   a1: {fileID: 1368691959}
+  a2: {fileID: 1735634574}
 --- !u!4 &1041343743
 Transform:
   m_ObjectHideFlags: 0
@@ -886,6 +887,11 @@ PrefabInstance:
 --- !u!1 &1735634573 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100052, guid: 68d8f3eae01c5744b996aab3358db0a0, type: 3}
+  m_PrefabInstance: {fileID: 1465717132}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1735634574 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 9500000, guid: 68d8f3eae01c5744b996aab3358db0a0, type: 3}
   m_PrefabInstance: {fileID: 1465717132}
   m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
